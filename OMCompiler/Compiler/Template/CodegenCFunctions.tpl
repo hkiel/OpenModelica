@@ -5615,7 +5615,7 @@ template indexSubRecursive(list<Dimension> dims, list<Subscript> subs, Context c
       '<%daeSubscript(sub, context, &preExp, &varDecls, &auxFunction)%> - 1'
     case sub :: sub_rest then
       let recurse = indexSubRecursive(List.restOrEmpty(dims), sub_rest, context, preExp, varDecls, auxFunction)
-      let dim1 = dimension(List.first(dims), context, &preExp, &varDecls, &auxFunction)
+      let dim1 = dimension(listHead(dims), context, &preExp, &varDecls, &auxFunction)
       let sub1 = daeSubscript(sub, context, &preExp, &varDecls, &auxFunction)
       '(<%recurse%>) * <%dim1%> + (<%sub1%>-1)'
 end indexSubRecursive;

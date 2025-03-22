@@ -39,6 +39,12 @@ package builtin
     replaceable type T subtypeof Any;
   end listHead;
 
+  function listRest
+    input list<T> lst;
+    output list<T> rest;
+    replaceable type T subtypeof Any;
+  end listRest;
+
   function listEmpty
     input list<T> lst;
     output Boolean b;

@@ -198,6 +198,12 @@ package builtin
     output TypeVar head;
   end listHead;
 
+  function listRest
+    replaceable type TypeVar subtypeof Any;
+    input list<TypeVar> lst;
+    output list<TypeVar> rest;
+  end listRest;
+
   function intString
     input Integer i;
     output String s;
