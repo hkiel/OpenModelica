@@ -5,15 +5,15 @@
     <name>Dialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -149,26 +149,26 @@ Um Hilfe zur Benutzung von OMShell und OpenModelica zu bekommen, tippen Sie &quo
     </message>
     <message>
         <source>Evaluating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wird ausgewertet...</translation>
     </message>
     <message>
         <source>OMShell - Confirm Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>OMShell - Beenden bestätigen</translation>
     </message>
     <message>
         <source>Are you sure you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie OMShell wirklich beenden?</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>OMC Error</source>
-        <translation type="unfinished"></translation>
+        <translation>OMC-Fehler</translation>
     </message>
     <message>
         <source>Unable to get OMC version, OMC is not started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die OMC-Version kann nicht ermittelt werden, da OMC nicht gestartet ist.</translation>
     </message>
 </context>
 </TS>

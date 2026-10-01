@@ -57,7 +57,8 @@ Rückgabe:
     <message>
         <source>%1
 Using the built-in %2 instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1
+Stattdessen wird die integrierte Version von %2 verwendet.</translation>
     </message>
 </context>
 <context>

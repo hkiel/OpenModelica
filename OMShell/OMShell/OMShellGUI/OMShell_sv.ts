@@ -5,22 +5,22 @@
     <name>Dialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>OMS</name>
     <message>
         <source>OMShell - OpenModelica Shell</source>
-        <translation></translation>
+        <translation>OMShell - OpenModelica Shell</translation>
     </message>
     <message>
         <source>&amp;Load Model...</source>
@@ -44,7 +44,9 @@
         <source>
 To get help on using OMShell and OpenModelica, type &quot;help()&quot; and press enter.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+För att få hjälp med att använda OMShell och OpenModelica, skriv &quot;help()&quot; och tryck på Enter.
+</translation>
     </message>
     <message>
         <source>Load the Modelica Standard Library</source>
@@ -178,26 +180,26 @@ To get help on using OMShell and OpenModelica, type &quot;help()&quot; and press
     </message>
     <message>
         <source>Evaluating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvärderar...</translation>
     </message>
     <message>
         <source>OMShell - Confirm Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>OMShell - Bekräfta avslut</translation>
     </message>
     <message>
         <source>Are you sure you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill avsluta OMShell?</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>OMC Error</source>
-        <translation type="unfinished"></translation>
+        <translation>OMC-fel</translation>
     </message>
     <message>
         <source>Unable to get OMC version, OMC is not started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hämta OMC-versionen eftersom OMC inte är startat.</translation>
     </message>
 </context>
 </TS>
